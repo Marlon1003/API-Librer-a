@@ -1,2 +1,2 @@
 # API-Libreria
-API de una librería usando Python | MySQ| Flask.
+API de una librería usando Python | MySQ | Flask.
