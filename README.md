@@ -1,2 +1,2 @@
-# API-Librer-a
+# API-Libreria
 API de una librería usando Python | MySQ| Flask.
